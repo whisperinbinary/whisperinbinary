@@ -1,4 +1,4 @@
-<p><img align="center" width="1280" height="640" src="Github Banner 2.jpg"/></p>
+<p><img align="center" width="1280" height="640" src="Github Banner 2.png"/></p>
 <h1 align="center">Hi 👋, I'm Harshit</h1>
 <h2 align="center"><p>👨‍💻 A Computer Science undergrad from India, currently diving into the world of Artificial Intelligence and Machine Learning. While I'm just starting out, I'm driven by curiosity, consistency, and a love for quiet, focused work.</p></h2>
 <img align="right" alt="coding" width="400" src="https://backiee.com/static/wallpapers/1000x563/396529.jpg"/></p>
