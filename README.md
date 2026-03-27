@@ -1,23 +1,73 @@
-<p><img align="center" width="1280" height="640" src="Github Banner 2.png"/></p>
-<h1 align="center">Hi 👋, I'm Harshit</h1>
-<h2 align="center"><p>👨‍💻 A Computer Science undergrad from India, currently diving into the world of Artificial Intelligence and Machine Learning. While I'm just starting out, I'm driven by curiosity, consistency, and a love for quiet, focused work.</p></h2>
-<img align="right" alt="coding" width="400" src="https://backiee.com/static/wallpapers/1000x563/396529.jpg"/></p>
-
-<h3 align="left"><p>🧠 What I Value -<br><br># Deep focus over distractions<br># Learning over shortcuts<br># Progress over perfection<br><br>💻 Skills -<br><br># Python<br># MySQL<br># Strong foundation in logic and problem-solving<br><br>🚀 Currently Exploring -<br><br># Machine Learning fundamentals<br># AI concepts and applications<br># Building real-world projects<br><br>“Solitude sharpens clarity. Consistency builds mastery.”</p></h3>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=whisperinbinary&label=Profile%20views&color=0e75b6&style=flat" alt="whisperinbinary" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harshit-sharma-4a167237b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit-sharma-4a167237b" height="30" width="40" /></a>
+<p align="center">
+  <img src="Github Banner 2.png" width="100%" alt="Banner"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Harshit Sharma</h1>
+<h3 align="center">A Computer Science undergrad from India, diving into AI & Machine Learning</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=whisperinbinary&show_icons=true&locale=en&layout=compact" alt="whisperinbinary" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whisperinbinary&show_icons=true&locale=en" alt="whisperinbinary" /></p>
+## About Me
+I’m a Computer Science undergrad, passionate about Artificial Intelligence and Machine Learning.  
+Curiosity, consistency, and focus drive my journey — I believe in learning deeply and building real-world applications.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whisperinbinary&" alt="whisperinbinary" /></p>
+---
+
+## What I Value
+- Deep focus over distractions  
+- Learning over shortcuts  
+- Progress over perfection  
+
+> *“Solitude sharpens clarity. Consistency builds mastery.”*
+
+---
+
+## 📫 Reach Me
+**Email:** hsharma6002@gmail.com  
+
+---
+
+## Connect with Me
+<p align="left">
+<a href="https://github.com/whisperinbinary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harshit-sharma-4a167237b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://hackerrank.com/whisperinbinary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
+<a href="https://leetcode.com/whisperinbinary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+</p>
+
+---
+
+## Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/>
+</p>
+
+---
+
+## GitHub Stats
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whisperinbinary&theme=radical" alt="GitHub streak"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=whisperinbinary&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
+
+
