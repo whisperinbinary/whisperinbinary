@@ -3,7 +3,7 @@
 <h2 align="center"><p>👨‍💻 A Computer Science undergrad from India, currently diving into the world of Artificial Intelligence and Machine Learning. While I'm just starting out, I'm driven by curiosity, consistency, and a love for quiet, focused work.</p></h2>
 <img align="right" alt="coding" width="400" src="https://backiee.com/static/wallpapers/1000x563/396529.jpg"/></p>
 
-<h3 align="left"><p>🧠 What I Value -<br><br># Deep focus over distractions<br># Learning over shortcuts<br># Progress over perfection<br><br>💻 Skills -<br><br># Python<br># MySQL<br># Strong foundation in logic and problem-solving<br><br>🚀 Currently Exploring -<br><br># Machine Learning fundamentals<br># AI concepts and applications<br># Building real-world projects (soon!)<br><br>“Solitude sharpens clarity. Consistency builds mastery.”</p></h3>
+<h3 align="left"><p>🧠 What I Value -<br><br># Deep focus over distractions<br># Learning over shortcuts<br># Progress over perfection<br><br>💻 Skills -<br><br># Python<br># MySQL<br># Strong foundation in logic and problem-solving<br><br>🚀 Currently Exploring -<br><br># Machine Learning fundamentals<br># AI concepts and applications<br># Building real-world projects<br><br>“Solitude sharpens clarity. Consistency builds mastery.”</p></h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whisperinbinary&label=Profile%20views&color=0e75b6&style=flat" alt="whisperinbinary" /> </p>
