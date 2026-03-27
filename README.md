@@ -2,28 +2,28 @@
   <img src="Github Banner 2.png" width="100%" alt="Banner"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Harshit Sharma</h1>
-<h3 align="center">A Computer Science undergrad from India, diving into AI & Machine Learning</h3>
+## <h1 align="center">Hi 👋, I'm Harshit Sharma</h1>
+### <h3 align="center">A Computer Science undergrad from India, diving into AI & Machine Learning</h3>
 
 ---
 
 ## About Me
-I’m a Computer Science undergrad, passionate about Artificial Intelligence and Machine Learning.  
-Curiosity, consistency, and focus drive my journey — I believe in learning deeply and building real-world applications.
+### I’m a Computer Science undergrad, passionate about Artificial Intelligence and Machine Learning.  
+### Curiosity, consistency, and focus drive my journey — I believe in learning deeply and building real-world applications.
 
 ---
 
 ## What I Value
-- Deep focus over distractions  
-- Learning over shortcuts  
-- Progress over perfection  
+### - Deep focus over distractions  
+### - Learning over shortcuts  
+### - Progress over perfection  
 
 > *“Solitude sharpens clarity. Consistency builds mastery.”*
 
 ---
 
-## 📫 Reach Me
-**Email:** hsharma6002@gmail.com  
+## Reach Me
+### **Email:** hsharma6002@gmail.com  
 
 ---
 
